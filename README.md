@@ -8,4 +8,5 @@
 <img  width="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
 <img  width="50px" src="https://cdn.svgporn.com/logos/javascript.svg"/>
 <br>
+<a href="https://eduardobs1.github.io/Netflix/"><img width="30px" src="https://cdn.svgporn.com/logos/netflix-icon.svg"></a>
 <img src="https://github.com/eduardobs1/Netflix/blob/main/img/desketop.png?raw=true"/>
